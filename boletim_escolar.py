@@ -15,7 +15,7 @@ result = ((n1 + n2 +n3 + n4)/4)
 print(" A media foi: ", f"{result:.1f}")
 
 
-if result >= 6:
+if result >= 7:
     print("aprovado")
 else:
     print("reprovado")
